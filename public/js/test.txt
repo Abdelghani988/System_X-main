@@ -1,0 +1,17 @@
+FirstName
+LastName
+Email
+Telephone
+Age
+Country
+Gender
+createdAt
+updatedAt
+
+    FirstName: 'tito',
+    LastName: 'tito',
+    Email: 'tito@gmail.com',
+    Telephone: '213214141',
+    Age: '12',
+    Country: 'Egypt',
+    Gender: 'Male',
